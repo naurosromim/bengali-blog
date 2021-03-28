@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://nauros.netlify.app/blog/</loc>
+    <lastmod>2021-03-28T15:02:32+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nauros.netlify.app/blog/rise-of-blog/</loc>
+    <lastmod>2021-03-28T15:02:32+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nauros.netlify.app/</loc>
+    <lastmod>2021-03-28T15:02:32+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nauros.netlify.app/blog/best-books-2020/</loc>
+    <lastmod>2021-03-28T14:30:49+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nauros.netlify.app/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nauros.netlify.app/404/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nauros.netlify.app/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nauros.netlify.app/about/</loc>
+  </url>
+  
+</urlset>
